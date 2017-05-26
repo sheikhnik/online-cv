@@ -13,17 +13,13 @@ baseurl: '/online-cv' #change it according to your repository name
 
 
 #Profile information
-name: Alan Doe
+name: Sheikh Nik Muhammad Ilman bin Nik Adnan
 tagline: Full Stack Developer
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
-email: hello@webjeda.com
-phone: 012 345 6789
-website: blog.webjeda.com #do not add http://
-linkedin: alandoe
-github: sharu725
-twitter: '@webjeda'
+email: nikilman94@gmail..com
+Adress : 17,Jalan Ixora 1/8, Taman Ixora, Bandar Baru Salak Tinggi, 43900 Sepang, Selangor.
 
 
 # Tracker
